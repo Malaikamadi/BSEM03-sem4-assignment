@@ -1,9 +1,9 @@
-# BSEM03-sem4-assignment1 
+# BSEM03-sem4-assignment1 - Alimatu Maliaka Jalloh
 
-Technolgies Used
-HTML
-Github
-Git
+# Technolgies Used:
+- HTML
+- Github
+- Git
 
 Assignment screenshot
 ![alt text](image.png)
